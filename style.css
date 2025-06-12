@@ -11,3 +11,9 @@ body {
   background-color: #343534;
   display: flex;
 }
+
+h1 {
+  font-size: 33px;
+  font-weight: 600;
+  padding: 200px 0;
+}
